@@ -1,6 +1,6 @@
 # <div align="center">Moneyball</div>
 
-Moneyball uses the most recent complete baseball statistics dataset (updated January 24, 2015) from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/statistics/) to find the players with the highest OBP and the lowest salary in a specific year and uses that data to build a 9 player roster. The Moneyball notebook includes two rosters, one only pulling from the 1986 season and another team that pulled the highest value players from all available years.
+Moneyball uses the most recent complete baseball statistics dataset (updated January 24, 2015) from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/statistics/) to find the players with the highest OBP and the lowest salary in a specific year and uses that data to build a 9 player roster. The Moneyball notebook includes two rosters, one only pulled from the 1986 season and another roster that pulled the highest value players from all available years.
 
 The Moneyball roster includes:
 * Baseman (1st, 2nd, 3rd)
